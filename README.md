@@ -1,2 +1,3 @@
 # DataBaseCourse
-repositorio del curso de base de datos
+
+Conceptos básicos de Bases de Datos y diagramas E/R.
